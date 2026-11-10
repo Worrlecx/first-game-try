@@ -1,0 +1,8 @@
+{
+  "name": "Flappy Bird Retro Arcade",
+  "description": "Classic retro Flappy Bird arcade game with procedural pipes, dynamic speed scaling, high scores, Web Audio sound effects, and English/Turkish support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
